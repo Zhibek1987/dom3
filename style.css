@@ -1,7 +1,8 @@
 .a {
-    width: 6px;
-    height: 6px;
-    transform: 3s;
+    width: 12px;
+    height: 12px;
+    transition: 0.3s;
+    border-radius: 100%;
     
 }
 .a:hover{
